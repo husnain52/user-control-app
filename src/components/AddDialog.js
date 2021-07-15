@@ -20,7 +20,6 @@ import {
   InputLabel,
   Select,
   MenuItem,
-  MuiDialogTitle
 } from "@material-ui/core";
 import MuiDialogTitle from "@material-ui/core/DialogTitle";
 // material icons

@@ -66,11 +66,11 @@ function stableSort(array, comparator) {
 
 // headCells array
 const headCells = [
-  { id: "id", numeric: true, disablePadding: true, label: "" },
-  { id: "name", numeric: false, disablePadding: false, label: "USER" },
-  { id: "mass", numeric: false, disablePadding: false, label: "ROLE" },
-  { id: "type", numeric: true, disablePadding: false, label: "STATUS" },
-  { id: "type", numeric: true, disablePadding: false, label: "ACTIONS" },
+  { id: "img", numeric: true, disablePadding: true, label: "" },
+  { id: "user", numeric: false, disablePadding: false, label: "USER" },
+  { id: "role", numeric: false, disablePadding: false, label: "ROLE" },
+  { id: "status", numeric: true, disablePadding: false, label: "STATUS" },
+  { id: "actions", numeric: true, disablePadding: false, label: "ACTIONS" },
 ];
 
 // table head component starts
