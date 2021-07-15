@@ -1,0 +1,10 @@
+.list li {
+  list-style-type: disc !important;
+}
+a {
+  text-decoration: none;
+}
+.error {
+  font-size: 10px;
+  color: red;
+}

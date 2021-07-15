@@ -1,0 +1,137 @@
+[
+  {
+    "id": 0.5508253693412359,
+    "firstName": "Danniel ",
+    "lastName": "Blichmann",
+    "email": "danniealbichmann@testtask.com",
+    "role": "admin",
+    "status": true,
+    "img": ""
+  },
+  {
+    "id": 0.05856586725165913,
+    "firstName": "Margeret",
+    "lastName": "Jones",
+    "email": "danniealbichmann@testtask.com",
+    "role": "user",
+    "status": true,
+    "img": ""
+  },
+  {
+    "id": 0.2798016985718479,
+    "firstName": "Bethany ",
+    "lastName": "Doe",
+    "email": "danniealbichmann@testtask.com",
+    "role": "user",
+    "status": false,
+    "img": ""
+  },
+  {
+    "id": 0.9181116383229,
+    "firstName": "Samuel",
+    "lastName": "Jackson",
+    "email": "danniealbichmann@testtask.com",
+    "role": "user",
+    "status": false,
+    "img": ""
+  },
+  {
+    "id": 0.40943154900855316,
+    "firstName": "Persivel",
+    "lastName": "Blin",
+    "email": "danniealbichmann@testtask.com",
+    "role": "user",
+    "status": false,
+    "img": ""
+  },
+  {
+    "id": 0.8927133564452698,
+    "firstName": "Danniel ",
+    "lastName": "Blichmann",
+    "email": "danniealbichmann@testtask.com",
+    "role": "user",
+    "status": false,
+    "img": ""
+  },
+  {
+    "id": 0.9125868555989995,
+    "firstName": "Danniel ",
+    "lastName": "Blichmann",
+    "email": "danniealbichmann@testtask.com",
+    "role": "user",
+    "status": true,
+    "img": ""
+  },
+  {
+    "id": 0.3666994948718245,
+    "firstName": "Danniel ",
+    "lastName": "Blichmann",
+    "email": "danniealbichmann@testtask.com",
+    "role": "admin",
+    "status": true,
+    "img": ""
+  },
+  {
+    "id": 0.29520046707572845,
+    "firstName": "Danniel ",
+    "lastName": "Blichmann",
+    "email": "danniealbichmann@testtask.com",
+    "role": "admin",
+    "status": false,
+    "img": ""
+  },
+  {
+    "id": 0.35014501950596544,
+    "firstName": "Danniel ",
+    "lastName": "Blichmann",
+    "email": "danniealbichmann@testtask.com",
+    "role": "user",
+    "status": false,
+    "img": ""
+  },
+  {
+    "id": 0.9380977014488512,
+    "firstName": "Danniel ",
+    "lastName": "Blichmann",
+    "email": "danniealbichmann@testtask.com",
+    "role": "user",
+    "status": false,
+    "img": ""
+  },
+  {
+    "id": 0.8196490371208349,
+    "firstName": "Danniel ",
+    "lastName": "Blichmann",
+    "email": "danniealbichmann@testtask.com",
+    "role": "user",
+    "status": false,
+    "img": ""
+  },
+  {
+    "id": 0.7864843498186229,
+    "firstName": "Danniel ",
+    "lastName": "Blichmann",
+    "email": "danniealbichmann@testtask.com",
+    "role": "user",
+    "status": true,
+    "img": ""
+  },
+  {
+    "id": 0.8659116947963159,
+    "firstName": "Danniel ",
+    "lastName": "Blichmann",
+    "email": "danniealbichmann@testtask.com",
+    "role": "user",
+    "status": true,
+    "img": ""
+  },
+  {
+    "id": 0.3951604896326226,
+    "firstName": "Danniel ",
+    "lastName": "Blichmann",
+    "email": "danniealbichmann@testtask.com",
+    "role": "user",
+    "status": false,
+    "img": ""
+  }
+]
